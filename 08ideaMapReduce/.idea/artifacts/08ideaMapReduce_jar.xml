@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="08ideaMapReduce:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/08ideaMapReduce_jar</output-path>
+    <root id="archive" name="08ideaMapReduce.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="08ideaMapReduce.main" />
+    </root>
+  </artifact>
+</component>

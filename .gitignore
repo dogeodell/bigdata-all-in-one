@@ -1,0 +1,11 @@
+/06db-derby-10.14.2.0-bin.zip
+/07sbt-1.5.2.zip
+/02jdk8.exe
+/03hadoop-3.2.1.tar.gz
+/04hbase-2.3.5-bin.tar.gz
+/05apache-hive-3.1.2-bin.tar.gz
+/07spark-3.1.1-bin-hadoop3.2.tgz
+/08linux-jdk.tar.gz
+01Enviorment/*
+/output
+/metastore_db

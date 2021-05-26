@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c89d37e-fdbb-412d-ae4b-d88b937c1028" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../08ideaMapReduce/.idea/artifacts/08ideaMapReduce_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ideaMapReduce/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ideaMapReduce/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ideaMapReduce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ideaMapReduce/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ideaMapReduce/src/main/java/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../000-dogeodell-install.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../000-dogeodell-install.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001-dogeodell-shell.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../001-dogeodell-shell.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08ideaMapReduce/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../08ideaMapReduce/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14config/hadoop/workers" beforeDir="false" afterPath="$PROJECT_DIR$/../14config/hadoop/workers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14config/hive/hive-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../14config/hive/hive-site.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14config/hosts" beforeDir="false" afterPath="$PROJECT_DIR$/../14config/hosts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/../derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogeodell-extract.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dogeodell-extract.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogeodell-extract.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dogeodell-extract.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogeodell-source.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dogeodell-source.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1si8RNwiyQegK6LctqTAUkNQpbQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c89d37e-fdbb-412d-ae4b-d88b937c1028" name="Default Changelist" comment="" />
+      <created>1621344040466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621344040466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

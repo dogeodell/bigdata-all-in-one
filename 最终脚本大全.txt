@@ -1,0 +1,15 @@
+hadoop jar 16jars/08ideaMapReduce.jar ./17test ./output
+# Hadoop脚本
+spark-submit --class "SimpleApp" 16jars/08ideaSpark.jar
+# Spark脚本
+
+    create table docs(line string);
+    load data inpath '/17test/TestArticle3.txt' overwrite into table docs;
+    create table word_count as 
+    select word, count(1) as count from
+    (select explode(split(line,' '))as word from docs) w
+    group by word
+    order by word;
+#HIVE脚本
+hdfs  dfsadmin  -refreshNodes
+# 刷新节点
