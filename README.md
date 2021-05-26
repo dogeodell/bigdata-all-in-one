@@ -123,11 +123,13 @@ vm2
 master
 ```
 
-然后每个人都去执行dogeodell-config.sh/bat
+**然后每个人都去执行**
 
-负责控制的张三应该额外执行
+dogeodell-config.sh/bat
 
+**负责控制的张三应该额外执行**
 
+001-dogeodell-addfile/002-dogeodell-Master
 
 **打包然后把压缩包上传到/home/node路径之下**
 
