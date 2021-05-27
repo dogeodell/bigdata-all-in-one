@@ -88,12 +88,6 @@ sudo chown -R $USER node
 
 
 
-**然后把修改后的压缩包上传到/home/node路径之下**
-
-随后在/home/node路径执行tar -xvf DogeOdellAmazingWork.tar解压到当前路径
-
-
-
 ### **举个例子**
 
 **两个样本分别为**
@@ -131,19 +125,94 @@ vm2
 master
 ```
 
-**然后每个人都去执行**
+**然后把修改后的压缩包上传到/home/node路径之下**
 
-dogeodell-config.sh/bat
+随后在/home/node路径执行tar -xvf DogeOdellAmazingWork.tar解压到当前路径
 
-**负责控制的张三应该额外执行**
+然后执行
+
+cd DogeOdellAmazingWork.tar
+
+chmod +x *.sh
+
+
+
+#### **1.每个人要都去执行**
+
+001-dogeodell-install.sh/bat
+
+
+
+#### **2.每个人执行后**
+
+**linux**
+
+sudo su node
+
+或ssh登录到node用户
+
+ssh node@zs
+
+
+
+**windows**
+
+点击打开001-dogeodell-shell.bat
+
+然后输入运行start-all
+
+
+
+#### **3.负责控制的张三应该额外执行**
+
+**如果是linux**
+
+sudo su node
+
+或ssh登录到node用户
+
+ssh node@zs
+
+**然后切换到我们的安装路径**
+
+./002-dogeodell-Master.sh
+
+./001-dogeodell-addfile.sh
+
+
+
+**如果是Winodws**
+
+请直接点击运行
 
 001-dogeodell-addfile/002-dogeodell-Master
 
+不需要切换用户
 
 
-#### **最后执行dogeodell-install**
+
+**至此安装结束**
+
+windows 可以使用任意用户单机打开001-dogeodell-shell.bat然后运行脚本
+
+linux登录node用户即可运行所有脚本
+
+
+
+#### **最后执行我们的脚本大全**
 
 修改配置可以重复执行dogeodell-config.sh/bat
 
 
 
+
+
+#### **如何判断成功？**
+
+登录http://master:8088
+
+查看节点数量与组员数量一致
+
+![success](success.png)
+
+然后前往master主机执行最终脚本大全即可
