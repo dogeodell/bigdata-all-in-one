@@ -10,7 +10,7 @@ QQ群 625598191 请前往群内下载
 
 ##### **[原博客链接地址]**
 
-### http://lxc.life:23456/wordpress/?p=628
+### http://lxc.life:23456/wordpress/tag/%e5%a4%a7%e6%95%b0%e6%8d%ae%e8%af%be%e8%ae%be/
 
 
 
