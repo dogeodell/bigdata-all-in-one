@@ -139,7 +139,7 @@ chmod +x *.sh
 
 #### **1.每个人要都去执行**
 
-001-dogeodell-install.sh/bat
+000-dogeodell-install.sh/bat
 
 
 

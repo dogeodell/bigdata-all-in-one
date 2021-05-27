@@ -24,6 +24,7 @@ start dogeodell-firewall
 #start dogeodell-init
 echo 生成新的ssh秘钥
 ssh-keygen.exe -t rsa -b 4096 -f C:\Users\node\.ssh\id_rsa -q -N ""
+type C:\Users\node\.ssh\id_rsa.pub >> C:\Users\node\.ssh\authorized_keys
 pause
 
 
