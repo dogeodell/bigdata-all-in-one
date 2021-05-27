@@ -86,6 +86,14 @@ sudo chown -R $USER node
 
 14config\hadoop\workers将改为自己组员的主机代号
 
+
+
+**然后把修改后的压缩包上传到/home/node路径之下**
+
+随后在/home/node路径执行tar -xvf DogeOdellAmazingWork.tar解压到当前路径
+
+
+
 ### **举个例子**
 
 **两个样本分别为**
@@ -131,9 +139,7 @@ dogeodell-config.sh/bat
 
 001-dogeodell-addfile/002-dogeodell-Master
 
-**打包然后把压缩包上传到/home/node路径之下**
 
-随后在/home/node路径执行tar -xvf DogeOdellAmazingWork.tar解压到当前路径
 
 #### **最后执行dogeodell-install**
 
