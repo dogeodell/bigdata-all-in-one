@@ -1,3 +1,4 @@
+call permission
 type 14config/hosts >> C:/Windows/System32/drivers/etc
 cp 14config/hadoop/* 01Enviorment/hadoop-3.2.1/etc/hadoop
 cp 14config/hbase/* 01Enviorment/hbase-2.3.5/conf
